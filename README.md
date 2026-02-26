@@ -1,5 +1,16 @@
 # myapp
 
+# lenguaje flutter nivel principiante , ejemplo de navegacion entre 3 paginas utilizando rutas nombradas 
+desde main llamar a pagina 1 , con el diseño basado en la imagen , logo atractivo y sigue la paleta de colores,
+al presionar el logo ir a pagina 2, pagina 2 basado en la imagen al presionar register ir a la pagina 3, 
+y mostrar formulario de registro, agrega flechas en pagina 1 y 2 para volver
+
+
+
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
